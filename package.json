@@ -1,0 +1,25 @@
+{
+  "name": "edgy-ripple",
+  "private": true,
+
+  "scripts": {
+    "start": "abigail compile src/*.coffee",
+    "compile": "coffee --print src/index.coffee > edgy-ripple.js"
+  },
+  
+  "devDependencies": {
+    "abigail": "^0.1.0",
+    "coffee-script": "^1.9.3"
+  },
+
+  "author": "59naga <i59naga@icloud.com> (http://berabou.me)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/59naga/edgy-ripple.git"
+  },
+  "bugs": {
+    "url": "https://github.com/59naga/edgy-ripple/issues"
+  },
+  "homepage": "https://github.com/59naga/edgy-ripple#readme"
+}

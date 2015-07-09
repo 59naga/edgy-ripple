@@ -1,0 +1,23 @@
+{
+  "name": "edgy-ripple",
+  "description": "Pixelated ripple effect using canvas",
+
+  "main": "edgy-ripple.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+
+  "dependencies": {
+    "q": "1.0.1"
+  },
+
+  "authors": [
+    "59naga <i59naga@icloud.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/59naga/edgy-ripple"
+}
